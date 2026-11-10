@@ -1,9 +1,14 @@
 {
-  "locked_users": ["dami"],
-  "blocked_ips": ["198.51.100.90"],
+  "locked_users": [
+    "dami"
+  ],
+  "blocked_ips": [],
   "tickets": [
-    {"id": "TCK-1", "incident": "INC-001", "target": "dami"},
-    {"id": "TCK-2", "incident": "INC-005", "target": "198.51.100.90"}
+    {
+      "id": "TCK-1",
+      "incident": "INC-001",
+      "target": "dami"
+    }
   ],
   "notifications": []
 }
